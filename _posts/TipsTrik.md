@@ -1,0 +1,14 @@
+---
+title: "Tips & Trik Menjalani MK Proyek 1"
+last_modified_at: 2020-02-26
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+---
+
+	Sedikit tips dan trik dari saya dalam menjalani proses pembelajaran mata kuliah Proyek 1 adalah: 
+1. Ketika ada tugas yang diberikan maka harus langsung dikerjakan dengan tekun karena waktu yang dimiliki sangat terbatas. 2. Kemudian apabila hal yang tidak kita mengerti, coba lah untuk bertanya kepada teman yang atau kepada dosen. 
+3. Apabila ada deadline tugas untuk  hari selanjutnya, usahakan untuk menghindari mengerjakan sehari sebelumnya. Cobalah mengatur waktu untuk mengerjakannya dengan sistem cicil, sehingga kita tidak akan keteteran ketika h-1.
+4. Manfaatkan waktu sebaik mungkin selama jam pelajaran berlangsung.
+5. Ketika berkelompok, usahakan untuk mengutamakan kepentingan kelompok terlebih dahulu dibanding kepentingan pribadi.
