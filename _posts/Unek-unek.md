@@ -1,0 +1,10 @@
+---
+title: "Unek-unek Selama Pembelajaran MK Proyek 1"
+last_modified_at: 2020-02-26
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+---
+
+	Pada awalnya saya merasa belum terbiasa dengan sistem pembelajaran yang diterapkan, saya merasa sangat kelelahan karena banyaknya tugas yang diberikan dan juga saya merasa sering dikejar deadline sehingga hal itu membuat saya sedikit tertekan. Tetapi, lama kelamaan saya mulai terbiasa dan bisa mengikuti sistem pembelajaran yang diterapkan, meskipun masih membutuhkan waktu yang cukup lama lagi untuk membuat saya merasa benar-benar nyaman dalam mengikuti pembelajaran. 

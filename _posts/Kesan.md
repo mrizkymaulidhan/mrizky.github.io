@@ -1,0 +1,12 @@
+---
+title: "Kesan Selama Pembelajaran MK Proyek 1"
+last_modified_at: 2020-02-26
+categories:
+  - Post Formats
+tags:
+  - Post Formats
+---
+	
+	Kesan yang ingin saya sampaikan selama pembelajaran mata kuliah Proyek 1 adalah saya merasa banyak pelajaran dan manfaat yang saya dapatkan. Pengetahuan saya semakin bertambah, keterampilan saya juga semakin meningkat seiring berjalannya waktu. Selain itu, banyak hal baru yang saya temukan selama pembelajaran Proyek 1.
+	Saya senang adanya kolaborasi dalam kelompok untuk menyelsaikan tuags karena saya yakin dengan sistem pembelajaran yang diterapkan sekarang, akan memberi manfaat khusunya bagi diri saya sendiri untuk menghadapi dunia pekerjaan di masa yang akan datang. Karena kolaborasi merupakan hal yang penring untuk dilakukan dalam dunia kerja.
+	
