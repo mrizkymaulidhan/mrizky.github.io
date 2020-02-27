@@ -1,5 +1,5 @@
 ---
-title: "Kesan Selama Pembelajaran MK Proyek 1"
+title: "Pelajaran Hidup"
 last_modified_at: 2020-02-26T16:20:02-05:00
 categories:
   - Post Formats
