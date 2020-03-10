@@ -4,10 +4,10 @@ import json
 from bs4 import BeautifulSoup
 
 Terkini={
+    "time":"",
     "kategori":"",
     "judul":"",
-    "waktu":"",
-    "time":""
+    "waktu":""
 }
 
 data = []
