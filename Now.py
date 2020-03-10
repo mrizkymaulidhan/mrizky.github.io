@@ -8,8 +8,7 @@ Terkini={
     "time":"",
     "kategori":"",
     "judul":"",
-    "waktu":"",
-    "tanggal":""
+    "waktu":""
 }
 
 data = []
@@ -23,9 +22,6 @@ for headline in obj.find_all('div', class_='conten1'):
     Terkini["waktu"] = headline.find('div', class_='date').text
     localtime = time.asctime(time.localtime(time.time()))
     Terkini["time"] = localtime
-    date = datetime.datetime.now()
-    today = date.strftime("%A")+", "+date.strftime("%d")+" "+date.strftime("%B")+" "+date.strftime("%Y")
-    Terkini["tanggal"] = today
 
     data.append (dict(Terkini))
     print(Terkini)
