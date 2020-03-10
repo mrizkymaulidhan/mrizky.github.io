@@ -14,7 +14,7 @@ data = []
 page = requests.get("https://www.republika.co.id/")
 obj = BeautifulSoup(page.text,'html.parser');
 
-for headline in obj.find_all('div', class_='conten1'):
+for headline in obj.find_all('div', class_='bungkus_txt_headline'):
     republika["category"] = (headline.find('h1').text)
     republika["tittle"] = (headline.find('h2').text)
     date = datetime.datetime.now()
