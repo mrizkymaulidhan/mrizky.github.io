@@ -1,5 +1,6 @@
 import requests
 import datetime
+import time
 import json
 from bs4 import BeautifulSoup
 
@@ -7,7 +8,8 @@ Terkini={
     "time":"",
     "kategori":"",
     "judul":"",
-    "waktu":""
+    "waktu":"",
+    "tanggal":""
 }
 
 data = []
@@ -19,9 +21,11 @@ for headline in obj.find_all('div', class_='conten1'):
     Terkini["kategori"] = headline.find('h1').text
     Terkini["judul"] = headline.find('h2').text
     Terkini["waktu"] = headline.find('div', class_='date').text
+    localtime = time.asctime(time.localtime(time.time()))
+    Terkini["time"] = localtime
     date = datetime.datetime.now()
     today = date.strftime("%A")+", "+date.strftime("%d")+" "+date.strftime("%B")+" "+date.strftime("%Y")
-    Terkini["time"] = today
+    Terkini["tanggal"] = today
 
     data.append (dict(Terkini))
     print(Terkini)
