@@ -4,10 +4,10 @@ import json
 from bs4 import BeautifulSoup
 
 Terkini={
-    "time":"",
     "kategori":"",
     "judul":"",
-    "tanggal":""
+    "waktu":"",
+    "time":""
 }
 
 data = []
@@ -18,7 +18,7 @@ obj = BeautifulSoup(page.text,'html.parser');
 for headline in obj.find_all('div', class_='conten1'):
     Terkini["kategori"] = headline.find('h1').text
     Terkini["judul"] = headline.find('h2').text
-    Terkini["tanggal"] = headline.find('div', class_='date').text
+    Terkini["waktu"] = headline.find('div', class_='date').text
     date = datetime.datetime.now()
     today = date.strftime("%A")+", "+date.strftime("%d")+" "+date.strftime("%B")+" "+date.strftime("%Y")
     Terkini["time"] = today
